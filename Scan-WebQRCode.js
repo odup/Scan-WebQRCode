@@ -9,7 +9,7 @@
 // @grant        GM_setClipboard
 // @grant        GM_registerMenuCommand
 // @grant        GM_addStyle
-// @license MIT
+// @license      MIT
 // ==/UserScript==
 
 (function() {
